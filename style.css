@@ -165,7 +165,7 @@ input:focus {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    filter: drop-shadow(0 0 0.8em black);
+    filter: drop-shadow(0 0 0.75em black);
     border-radius: 5px;
     margin: auto;
 }
