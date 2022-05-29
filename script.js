@@ -33,7 +33,7 @@ const condition = {
 const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
 const weather = {
-  apiKey: "8d344533d7ea2c3c05ae385c1041290c",
+  apiKey: "b2fc0b30cdfe7d7d9d1e180325aae30b",
   fetchWeather: function(city) {
     fetch(
         `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${this.apiKey}&units=metric`
